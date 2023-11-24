@@ -1,2 +1,2 @@
 # C-Programming
-C programming -1st semester.
+C programming -2nd semester.
